@@ -1,5 +1,20 @@
 # ESP8266 Weather Station
 
+## Hardware
+
+Bill of Materials :
+* 1x ESP8266-12
+* 1x BME280 Board
+* 1x TTL<->USB Board
+* 5x 10K resistor
+* 1x 3.3v Power Supply
+
+![Schematic](/doc/schematic.jpg)
+
+![Board](/doc/board.jpg)
+
+## Software
+
 Add the following library to the arduino IDE :
 * https://github.com/sparkfun/SparkFun_BME280_Arduino_Library
 
